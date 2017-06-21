@@ -5,7 +5,7 @@
     "Linagora folks"
   ],
   "description": "This library uses interact.js then exposes an angular directive which allows mobile swipe feature on everything in the DOM.",
-  "main": "dist/awesome-swipe.min.js",
+  "main": "dist/awesome-angular-swipe.min.js",
   "keywords": [
     "swipe",
     "awesomepaas",
